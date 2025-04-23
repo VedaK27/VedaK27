@@ -7,7 +7,7 @@
 ## 🚀 What I Do
 - 🔧 Full-Stack Development (Node.js | Express | MongoDB | React Native)
 - 📱 Mobile Development using React Native + Expo
-- 🔐 Authentication Systems (JWT, bcrypt, Google OAuth, LinkedIn OAuth)
+- 🔐 Authentication Systems (JWT, bcrypt)
 - ⚙️ Backend APIs with MVC Architecture
 - 🧠 Machine Learning & Python Scripting
 - 📊 Data Structures & Algorithms
