@@ -33,7 +33,6 @@
 ### ❤️ Heart Disease Prediction
 > Predicts heart disease risk using ML models trained on the UCI dataset  
 > ✅ Data cleaning, visualization, and modeling  
-> ✅ Logistic Regression, KNN, SVM  
 > ✅ Interactive UI for user input and results  
 [🔗 GitHub Repo](https://github.com/VedaK27/Heart-disease-prediction.git) 
 
