@@ -47,8 +47,6 @@
 ## 📫 Let’s Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/vedaKimbahune) 
 - 📨 Email: vedakimbahune27@gmail.com
-- 🌐 Portfolio: [Coming Soon...] 
-
 ---
 
 > 💬 “I code to create impact — from healthcare to smart solutions, I love building things that matter.”
