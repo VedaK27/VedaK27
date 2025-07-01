@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Veda Kimbahune 
 
-🎓 I'm a second-year Computer Science student studying at SCTR's Pune Institute of Computer Technoloy ,Pune who loves turning ideas into real-world solutions through code. From full-stack web and mobile apps to AI-driven projects, I'm all about building, learning, and solving problems.
+🎓 I'm a  Computer Science student studying at SCTR's Pune Institute of Computer Technoloy ,Pune who loves turning ideas into real-world solutions through code. From full-stack web and mobile apps to AI-driven projects, I'm all about building, learning, and solving problems.
 
 ---
 
